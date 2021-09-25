@@ -3,5 +3,6 @@
 source "https://rubygems.org"
 
 gem "kramdown-parser-gfm"
+gem "jekyll", "~> 3.8"
 
 gemspec
